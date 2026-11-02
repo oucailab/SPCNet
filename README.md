@@ -1,3 +1,3 @@
-# 🚀 Shared-Pattern Collaborative Network for Multi-Source Remote Sensing Data Classification, submitted to IEEE GRSL
+# 🚀 Shared-Pattern Collaborative Network for Multi-Source Remote Sensing Data Classification, IEEE JSTARS 2026
 
 Code coming soon ... ... 
